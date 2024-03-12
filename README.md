@@ -4,7 +4,7 @@ Bem-vindo ao AluraMed, minha solução completa para consultas médicas online! 
 
 ## Visão Geral 🌟
 
-Desenvolvi o AluraMed durante o desafio '7 Days of Code'. É uma plataforma intuitiva e amigável, com foco em oferecer uma experiência completa de consultas médicas online, priorizando a acessibilidade via dispositivos móveis. 📱
+Desenvolvi o AluraMed durante o desafio '7 Days of Code' da Alura. É uma plataforma intuitiva e amigável, com foco em oferecer uma experiência completa de consultas médicas online, priorizando a acessibilidade via dispositivos móveis. 📱
 
 ## Recursos Principais 🚀
 
